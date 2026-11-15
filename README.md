@@ -6,6 +6,7 @@
 - **Wikidata Knowledge Graph:** [`Q142168968`](https://www.wikidata.org/wiki/Q142168968)
 - **Google Scholar:** [`scholar.google.com/citations?user=mbBuZNgAAAAJ`](https://scholar.google.com/citations?user=mbBuZNgAAAAJ) (`Verified email at visionflowgroup.com`)
 - **Google Developer Profile:** [`g.dev/mdrafiulislamshubho`](https://g.dev/mdrafiulislamshubho)
+- **Google Cloud Skills:** [`skills.google/public_profiles/f54d9ff2-ff13-48f5-9ea1-bd8dbff94fba`](https://www.skills.google/public_profiles/f54d9ff2-ff13-48f5-9ea1-bd8dbff94fba) (17 Public Labs, 3 Badges)
 - **Hugging Face:** [`huggingface.co/mdrafiulislamshubho`](https://huggingface.co/mdrafiulislamshubho)
 - **Credly:** [`credly.com/users/md-rafiul-islam-shubho/badges/credly`](https://www.credly.com/users/md-rafiul-islam-shubho/badges/credly)
 - **LinkedIn:** [`linkedin.com/in/mdrafiulislamshubho`](https://www.linkedin.com/in/mdrafiulislamshubho/)
