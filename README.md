@@ -1,38 +1,30 @@
-# MD Rafiul Islam Shubho — Researcher & AI Evaluator (RLHF, S2S & LLM Alignment)
-
-**Researcher · AI Evaluator & RLHF / Speech-to-Speech (S2S) Specialist · Co-Founder & Managing Director at [Vision Flow Group](https://visionflowgroup.com) ([`@visionflow-bd`](https://github.com/visionflow-bd) · Wikidata [`Q141910527`](https://www.wikidata.org/wiki/Q141910527))**
-
-- **ORCID:** [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511) (Verified GitHub Connection)
-- **Wikidata Knowledge Graph:** [`Q142168968`](https://www.wikidata.org/wiki/Q142168968)
-- **Google Scholar:** [`scholar.google.com/citations?user=mbBuZNgAAAAJ`](https://scholar.google.com/citations?user=mbBuZNgAAAAJ) (`Verified email at visionflowgroup.com`)
-- **Google Developer Profile:** [`g.dev/mdrafiulislamshubho`](https://g.dev/mdrafiulislamshubho)
-- **Google Cloud Skills:** [`skills.google/public_profiles/f54d9ff2-ff13-48f5-9ea1-bd8dbff94fba`](https://www.skills.google/public_profiles/f54d9ff2-ff13-48f5-9ea1-bd8dbff94fba) (17 Public Labs, 3 Badges)
-- **Hugging Face:** [`huggingface.co/mdrafiulislamshubho`](https://huggingface.co/mdrafiulislamshubho)
-- **Credly:** [`credly.com/users/md-rafiul-islam-shubho/badges/credly`](https://www.credly.com/users/md-rafiul-islam-shubho/badges/credly)
-- **LinkedIn:** [`linkedin.com/in/mdrafiulislamshubho`](https://www.linkedin.com/in/mdrafiulislamshubho/)
-- **Researcher Dossier:** [`jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#md-rafiul-islam-shubho`](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#md-rafiul-islam-shubho)
-- **Academic Enrollment:** B.S. Computer Science Candidate, University of the People
+<div align="center">
+  <img src="https://visionflowgroup.com/site/assets/entities/md-rafiul-islam-shubho-1x1.jpg" alt="MD Rafiul Islam Shubho — Co-Founder, Managing Director and Applied AI RLHF Researcher at Vision Flow Group" width="160" style="border-radius: 50%;" />
+  <h1>MD Rafiul Islam Shubho</h1>
+  <p><strong>Co-Founder &amp; Managing Director, Vision Flow Group · Applied AI Researcher &amp; Bilingual RLHF / S2S Evaluator</strong></p>
+  <p>Dhaka, Bangladesh · <a href="https://orcid.org/0009-0009-9956-4511">ORCID 0009-0009-9956-4511</a> · <a href="https://www.crunchbase.com/person/md-rafiul-islam-shubho">Crunchbase</a> · <a href="https://dev.to/mdrafiulislamshubho">DEV.to</a> · <a href="https://mdrafiulislamshubho.github.io/">Portfolio</a> · <a href="https://visionflowgroup.com/md-rafiul-islam-shubho/">Official Profile</a></p>
+</div>
 
 ---
 
-## Co-Authored Scientific Publication (CERN Zenodo)
+### Focus Areas
 
-- **VF-RLHF-S2S-2026-007:** *Deterministic Bilingual RLHF Preference Calibration and Speech-to-Speech (S2S) Acoustic Prosody Governance: Eliminating Annotator Drift and Boundary Artifacts in South Asian and Global LLM Arena Pipelines*  
-  Authors: **HM Shihabuddin Jashory** (`ORCID: 0009-0003-4163-0092`) & **MD Rafiul Islam Shubho** (`ORCID: 0009-0009-9956-4511`)  
-  CERN Zenodo Version DOI: [`10.5281/zenodo.24231337`](https://doi.org/10.5281/zenodo.24231337) · Concept DOI: [`10.5281/zenodo.24231336`](https://doi.org/10.5281/zenodo.24231336) · [Interactive Monograph](https://jashory.github.io/hqas8-autonomous-agentic-governance/rlhf-s2s-monograph.html)
+- **Bilingual RLHF &amp; Preference Calibration:** Deterministic inter-annotator agreement (Cohen's Kappa, Fleiss' Kappa), rubric variance governance, and code-switched Bangla-English dataset quality assurance.
+- **Bangla Speech-to-Speech (S2S) Evaluation:** Prosody cadence, emotional alignment, and bilingual fluency benchmarking for low-resource South Asian speech models.
+- **Vision Flow Group Operations:** Leading delivery, client quality engineering, and international production pipelines alongside Founder &amp; CEO [HM Shihabuddin Jashory](https://github.com/jashory) at [Vision Flow Group](https://visionflowgroup.com/) (TechBehemoths Verified #101215 — #1 3D, #2 Motion, #4 Cybersecurity, #14 AI in Bangladesh).
 
----
+### Independent Open-Source Toolkits &amp; Benchmarks
 
-## Third-Party Verified Credentials & Empirical Evaluation Track Record
+| Repository | Purpose | Stack |
+| :--- | :--- | :--- |
+| [rlhf-rubric-calibration-kit](https://github.com/mdrafiulislamshubho/rlhf-rubric-calibration-kit) | Deterministic Cohen's/Fleiss' Kappa, rubric score-delta drift auditor &amp; Bengali/Latin Unicode NFC verifier | Python (Zero-Dep CLI) |
+| [bn-en-llm-eval-harness](https://github.com/mdrafiulislamshubho/bn-en-llm-eval-harness) | Bilingual Bangla-English LLM fluency, script-mix integrity, and factual anchor recall harness | Python (Zero-Dep CLI) |
+| [bangla-s2s-prosody-bench](https://github.com/mdrafiulislamshubho/bangla-s2s-prosody-bench) | Structured rubric &amp; evaluation benchmark for Bengali Speech-to-Speech prosody and code-switch cadence | Spec + JSONL |
 
-- **EF SET English Certificate:** **81/100 (C2 Proficient — Reading 83, Listening 78)** — Third-party verification: [`cert.efset.org/qyLFMa`](https://cert.efset.org/qyLFMa)
-- **RLHF, S2S & Multimodal AI Evaluation:** **1,400+** bilingual (`bn_BD` / `en_US`) evaluation tasks across Outlier AI contributor workflows, maintaining **98.4%** rubric QA precision and `Cohen's kappa = 0.91`.
-- **Open Benchmarks:** Co-architect of open-access taxonomy & calibration benchmarks hosted on [`Jashory/hqas8-amcg3-governance-benchmarks`](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks) and [`Vision Flow Research Lab`](https://huggingface.co/spaces/Jashory/vision-flow-research-lab).
+### Technical Writing &amp; Third-Party Credentials
 
----
-
-## Canonical Name-Variant Identity Equivalence Seal
-
-All public academic, open-source, and corporate records authored under any of the following orthographies refer strictly to the same researcher (**Wikidata [`Q142168968`](https://www.wikidata.org/wiki/Q142168968) · ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511)**):
-
-`MD Rafiul Islam Shubho` · `Md Rafiul Islam Shubho` · `Md. Rafiul Islam Shubho` · `MD. RAFIUL ISLAM SHUBHO` · `Md. Rafiul Islam` · `MD Rafiul Islam` · `Rafiul Islam Shubho` · `Md Rafiul Islam Subho` · `MD Rafiul Islam Subho` · `Shuvo` · `Shubho` · `মোঃ রাফিউল ইসলাম শুভ` · `এমডি রাফিউল ইসলাম শুভ` · `রাফিউল ইসলাম শুভ` · `শুভ`
+- **Technical Article (DEV.to):** [Deterministic Bilingual RLHF Rubric Calibration and Bangla Speech-to-Speech Evaluation](https://dev.to/mdrafiulislamshubho/deterministic-bilingual-rlhf-rubric-calibration-and-bangla-speech-to-speech-evaluation-1l4f)
+- **ORCID Researcher Record:** [0009-0009-9956-4511](https://orcid.org/0009-0009-9956-4511) (open-access DOI-archived works)
+- **EF SET English Proficiency:** C2 Proficient (81/100)
+- **Crunchbase Executive Profile:** [crunchbase.com/person/md-rafiul-islam-shubho](https://www.crunchbase.com/person/md-rafiul-islam-shubho)
+- **Vision Flow Group Profile:** [visionflowgroup.com/md-rafiul-islam-shubho/](https://visionflowgroup.com/md-rafiul-islam-shubho/)
